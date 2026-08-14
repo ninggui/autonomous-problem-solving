@@ -47,7 +47,7 @@ skillhub search <关键词>                    # 搜索
 skillhub install <skill> --namespace <ns> --dir <skills目录>  # 安装到当前Agent的skills目录
 ```
 
-Hermes 的 skills 目录通常为 `~/./skills/` 或 `/opt/data/skills/`。
+Hermes 的 skills 目录通常为 `~/.hermes/skills/` 或 `/path/to/data/skills/`。
 
 ### 已知优质 Skill
 
